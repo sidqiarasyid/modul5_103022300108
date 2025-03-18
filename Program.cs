@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 class SimpleDataBase<T>
 {
     private List<T> storedData; 
@@ -20,7 +21,7 @@ class SimpleDataBase<T>
         }
     }
 
-}
+
 
 class Utama
 {
